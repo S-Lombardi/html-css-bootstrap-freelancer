@@ -53,7 +53,6 @@
     min-height: 150px;
     background-color: green;
     border: 1px dashed black;
-    margin-bottom: 20px;
 }
 /*FINE PORTFOLIO */
 
@@ -93,6 +92,7 @@
 .background_footer{
     background-color: #3a546d;
     padding-bottom: 80px;
+    margin-top: 60px;
 }
 .footer_left, .footer_right, .footer_center{
     width: 100%;
@@ -100,7 +100,6 @@
     margin-top: 60px;
     border: 1px dashed white;
 }
-
 
 /* FOOTER DOWN */
 .background_footer_down{
