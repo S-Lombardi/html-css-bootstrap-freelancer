@@ -21,21 +21,12 @@
 
 /* HEADER */
 .background_header{
+    width: 100%;
     background-color: #2c3e50;
     padding: 10px 0px;
 }
 
-.left_header{
-    min-height: 80px;
-    width: 100%;
-    background-color: rgb(232, 232, 232);
-}
 
-.right_header{
-    min-height: 80px;
-    width: 100%;
-    background-color: rgb(122, 122, 122);
-}
 /* FINE HEADER */
 
 /* JUMBOTRON */
@@ -44,6 +35,10 @@
     min-height: 400px;
     width: 100%;
     border: 1px dashed black;
+}
+
+#jumbotron{
+    padding-top: 150px;
 }
 /* FINE JUMBOTRON */
 
