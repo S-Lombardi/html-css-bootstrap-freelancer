@@ -68,7 +68,7 @@
 }
 .line_star{
     display: inline-block;
-    width: 200px;
+    width: 100px;
     height: 4px;
     background-color: white;
     border-radius: 10px;
@@ -111,17 +111,6 @@
     border: 1px dashed black;
     margin-bottom: 30px;
 }
-
-
-
-
-
-
-
-
-
-
-
 .download{
     display: flex;
     justify-content: center;
@@ -131,13 +120,6 @@
     border: 1px dashed black;
     margin-bottom: 40px;
 }
-
-
-
-
-
-
-
 /* FINE ABOUT */
 
 /* CONTACT ME */
