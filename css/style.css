@@ -47,6 +47,15 @@
 /* FINE HEADER */
 
 /* JUMBOTRON */
+.content_jumbotron{
+    min-height: 400px;
+    width: 100%;
+    border: 1px dashed black;
+}
+
+#jumbotron{
+    padding-top: 150px;
+}
 .content_jumbotron img{
     width: 300px;
     
@@ -57,7 +66,7 @@
     font-size: 60px;
     text-align: center;
 }
-.title_section span{
+.line_star{
     display: inline-block;
     width: 200px;
     height: 4px;
@@ -77,43 +86,33 @@
     font-size: 25px;
     text-align: center;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* JUMBOTRON */
-
-.content_jumbotron{
-    min-height: 400px;
-    width: 100%;
-    border: 1px dashed black;
-}
-
-#jumbotron{
-    padding-top: 150px;
-}
 /* FINE JUMBOTRON */
 
 /* PORTFOLIO */
 .square_img{
     width: 100%;
     min-height: 150px;
-    background-color: green;
     border: 1px dashed black;
 }
+
+.square_img img{
+    width: 100%;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
 /*FINE PORTFOLIO */
 
 /* ABOUT */
-
 .background_full:nth-last-child(2){
     margin-top: 100px;
 }
