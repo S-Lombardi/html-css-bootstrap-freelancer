@@ -94,22 +94,10 @@
     min-height: 150px;
     border: 1px dashed black;
 }
-
 .square_img img{
     width: 100%;
     border-radius: 10px;
 }
-
-
-
-
-
-
-
-
-
-
-
 /*FINE PORTFOLIO */
 
 /* ABOUT */
@@ -123,6 +111,17 @@
     border: 1px dashed black;
     margin-bottom: 30px;
 }
+
+
+
+
+
+
+
+
+
+
+
 .download{
     display: flex;
     justify-content: center;
@@ -132,6 +131,13 @@
     border: 1px dashed black;
     margin-bottom: 40px;
 }
+
+
+
+
+
+
+
 /* FINE ABOUT */
 
 /* CONTACT ME */
