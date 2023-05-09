@@ -28,7 +28,7 @@
 .left_navbar{
     color: white;
     text-transform: uppercase;
-    font-size: 30px;
+    
     font-weight: bold;
 }
 .toggler_navbar{
@@ -41,7 +41,6 @@
 .nav_link{ 
     color: white;
     text-transform: uppercase;
-    font-size: 18px;
     font-weight: bold;
 }
 /* FINE HEADER */
@@ -54,16 +53,15 @@
 }
 
 #jumbotron{
-    padding-top: 150px;
+    padding-top: 100px;
 }
 .content_jumbotron img{
-    width: 300px;
+    width: 200px;
     
 }
 .title_section h1{
     color: white;
     text-transform: uppercase;
-    font-size: 60px;
     text-align: center;
 }
 .line_star{
@@ -77,13 +75,12 @@
 }
 .title_section i{
     color: white;
-    font-size: 35px;
+    font-size: 30px;
 }
 
 .profession{
     color: white;
     text-transform: uppercase;
-    font-size: 25px;
     text-align: center;
 }
 /* FINE JUMBOTRON */
@@ -91,7 +88,6 @@
 /* PORTFOLIO */
 .square_img{
     width: 100%;
-    min-height: 150px;
     border: 1px dashed black;
 }
 .square_img img{
@@ -125,9 +121,41 @@
 /* CONTACT ME */
 .content_contact{
     width: 100%;
-    height: 300px;
-    background-color: bisque;
+    /* border: 1px dashed black; */
 }
+
+.form_style{
+    width: 100%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid gray;
+}
+
+.btn_contact_me{
+    font-size: 20px;
+    color: white;
+    background-color: #1abc9c;
+    border-radius: 5px;
+    padding: 7px 20px;
+    border:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* FINE CONTACT ME */
 
 
@@ -152,6 +180,4 @@
     min-height: 60px;
     border: 1px dashed white;
 }
-
-
 /* FINE FOOTER */
